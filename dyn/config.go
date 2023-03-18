@@ -2,7 +2,7 @@ package dyn
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/hashicorp/terraform/helper/logging"
 	"github.com/nesv/go-dynect/dynect"
